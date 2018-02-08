@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LS05-FrameViewExample</string>
+    <string name="click_me">Click Me</string>
+    <string name="new_button_text">Below</string>
+    <string name="textView1">This is a text view</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="edit">Please type here</string>
+    <string name="to_hint">Enter Email Address</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="cavemen">Cavemen</string>
+    <string name="astronauts">Astronauts</string>
+    <string name="thank_you">Thanks for choosing our tea how would you like it?</string>
+    <string name="temperature">Temperature: </string>
+</resources>
